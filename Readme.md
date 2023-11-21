@@ -12,7 +12,9 @@ This is a simple to-do list app that allows you to manage your tasks and stay or
 
 ## 💥Bash
 
-`git clone https://github.com/Prime4045/To-do_list.git`
+```bash
+    git clone https://github.com/Prime4045/To-do_list.git
+    ```
 
 Use code with caution.
 
